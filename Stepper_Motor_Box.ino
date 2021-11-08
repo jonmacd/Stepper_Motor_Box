@@ -246,7 +246,7 @@ void stopMotor(){
   // STOP MOTOR HERE
   matrix.println("stop");
   matrix.writeDisplay();
-  digitalWrite(enPin, HIGH);
+  // digitalWrite(enPin, HIGH);
   digitalWrite(stLED, HIGH);
   delay(500);
   lastDnState = false;
