@@ -1,5 +1,5 @@
 
-# Stepper_Motor_Box
+# Stepper Motor Box
 
 Arduino code to control a stepper motor to move a platform up and down
 
