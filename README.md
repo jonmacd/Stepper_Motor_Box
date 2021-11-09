@@ -7,4 +7,4 @@ Up, Down, Stop, Zero (home)
 
 Motor speed is set with a potentiometer and displayed on an Adafruit seven segment backpack
 
-![](box.gif)
+![stepper box in action](box.gif)
