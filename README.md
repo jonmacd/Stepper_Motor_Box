@@ -3,7 +3,7 @@
 
 Arduino code to control a stepper motor to move a platform up and down
 
-Up, Down, Stop, Zero (home)
+Up, Down, Stop, Zero (home), Motor Speed
 
 Motor speed is set with a potentiometer and displayed on an Adafruit seven segment backpack
 
