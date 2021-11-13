@@ -1,7 +1,7 @@
 
 # Stepper Motor Box
 
-Arduino code to control a stepper motor to move a platform up and down.
+Arduino project to control a stepper motor which moves a platform up and down.
 
 Up, Down, Stop, Zero (home), Motor Speed functions in the Arduino code.
 
